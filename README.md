@@ -21,7 +21,7 @@ You are to investigate and review three (3) peer-reviewed articles from the _lit
 
 One of the investigated articles will be a _survey_ or review paper in which the ideas of several different research projects have been introduced in conjunction an area of research. In other words, a survey article builds an argument that a particular task may be accomplished with the use of any of the introduced methods and /or resources.
 
- - An example of a survey paper may be found at the link: [Alignment-free genetic sequence comparisons: a review of recent approaches by word analysis](https://dl.acm.org/doi/10.1145/2506583.2512365) concerning various methodologies for comparing genetic material.
+ - An example of a survey paper may be found at the link: [Alignment-free genetic sequence comparisons: a review of recent approaches by word analysis](https://academic.oup.com/bib/article/15/6/890/177681) concerning various methodologies for comparing genetic material.
 
  - Another example of a peer-reviewed review article concerns Game Engine design and can be consulted at link [Augmented Reality and programming education: A systematic review](https://www.sciencedirect.com/science/article/pii/S2212868921000544?casa_token=3zvomjf3awsAAAAA:qFkxOc_PE5JF3YGMGQj8C5c8d7K-oWD620AbzxlWiLxzhj_1Xc0fHPvDMxeKLCnKZRBaK5248w)
 
