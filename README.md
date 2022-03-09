@@ -13,8 +13,6 @@ Research initiative progresses in function of the current ideas in the field of 
 
 In this work, you will be following the ideas of others who are working on research projects which are related to your own research. This work will help you to focus your ideas more specifically so as to create a niche project which belongs uniquely to your project.
 
-### What to do
-
 You are to investigate and review three (3) peer-reviewed articles from the _literature_ using online search engines like [Google Scholar](https://scholar.google.com/) and similar. Your reviews will be published on your online research notebook.
 
 #### Reviews Articles
@@ -31,7 +29,7 @@ The other two of the three papers will concern specific methods or research whic
 
 You will submit your work in this repository and on a post using your online research website.
 
-Complete the markdown file: `writing/report.md` where you introduce your articles by responding to the leading questions. Once you have completed the work, please publish the questions and their responses on a posting or blog of your website. The please name the posting after the title of assignment.
+Complete the markdown file: `writing/report.md` where you introduce your articles by responding to the leading questions. Once you have completed the work, please publish the questions and their responses on a posting or blog of your website. Please name the posting after the title of assignment to facilitate organization.
 
 
 ### Learning
